@@ -1,0 +1,1 @@
+{"root":["./src/app.ts","./src/config/database.ts","./src/controller/report.ts","./src/data/dummy.ts","./src/jobs/etl.ts","./src/models/campaign.ts","./src/models/lead.ts","./src/route/route.ts","./src/utils/csvreport.ts"],"version":"5.6.2"}
